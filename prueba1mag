@@ -3,41 +3,122 @@
 #EXTINF:-50 tvg-logo="https://i.postimg.cc/prwZsYms/magic.png" group-title="INFANTIL", MAGIC KIDS FANS
 https://live.admefy.com/live/clean_peach_ef224.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="USA KIDS | Starz Kids & Family" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/starz_family.png" group-title="STARZ",USA KIDS | Starz Kids & Family
-http://lozanostv.net:8000/iptv/iptv/35664
+#EXTINF:-1 tvg-id="FOX PREMIUM ACTION SD" tvg-name="STAR ACTION FHD" tvg-logo="http://tvplaymundo.com/images/logos-tv/STAR%20ACTION.png" group-title="CANALES PREMIUM",STAR ACTION FHD
+http://tvplaymundo.com:80/marlon/marlon/4989
+#EXTINF:-1 tvg-id="FOX PREMIUM ACTION SD" tvg-name="STAR ACTION HD" tvg-logo="http://tvplaymundo.com/images/logos-tv/STAR%20ACTION.png" group-title="CANALES PREMIUM",STAR ACTION HD
+http://tvplaymundo.com:80/marlon/marlon/4988
+#EXTINF:-1 tvg-id="FOX PREMIUM ACTION SD" tvg-name="STAR ACTION SD" tvg-logo="http://tvplaymundo.com/images/logos-tv/STAR%20ACTION.png" group-title="CANALES PREMIUM",STAR ACTION SD
+http://tvplaymundo.com:80/marlon/marlon/4990
+#EXTINF:-1 tvg-id="FOX PREMIUM CINEMA SD" tvg-name="STAR CINEMA FHD" tvg-logo="http://tvplaymundo.com/images/logos-tv/STAR%20CINEMA.png" group-title="CANALES PREMIUM",STAR CINEMA FHD
+http://tvplaymundo.com:80/marlon/marlon/4986
+#EXTINF:-1 tvg-id="FOX PREMIUM CINEMA SD" tvg-name="STAR CINEMA SD" tvg-logo="http://tvplaymundo.com/images/logos-tv/STAR%20CINEMA.png" group-title="CANALES PREMIUM",STAR CINEMA SD
+http://tvplaymundo.com:80/marlon/marlon/4987
+#EXTINF:-1 tvg-id="FOX PREMIUM CLASSICS SD" tvg-name="STAR CLASSICS FHD" tvg-logo="http://tvplaymundo.com/images/logos-tv/STAR%20CLASSICS.png" group-title="CANALES PREMIUM",STAR CLASSICS FHD
+http://tvplaymundo.com:80/marlon/marlon/4984
+#EXTINF:-1 tvg-id="FOX PREMIUM CLASSICS SD" tvg-name="STAR CLASSICS HD" tvg-logo="http://tvplaymundo.com/images/logos-tv/STAR%20CLASSICS.png" group-title="CANALES PREMIUM",STAR CLASSICS HD
+http://tvplaymundo.com:80/marlon/marlon/9985
+#EXTINF:-1 tvg-id="FOX PREMIUM CLASSICS SD" tvg-name="STAR CLASSICS SD" tvg-logo="http://tvplaymundo.com/images/logos-tv/STAR%20CLASSICS.png" group-title="CANALES PREMIUM",STAR CLASSICS SD
+http://tvplaymundo.com:80/marlon/marlon/4985
+#EXTINF:-1 tvg-id="FOX PREMIUM COMEDY SD" tvg-name="STAR COMEDY FHD" tvg-logo="http://tvplaymundo.com/images/logos-tv/STAR%20COMEDY.png" group-title="CANALES PREMIUM",STAR COMEDY FHD
+http://tvplaymundo.com:80/marlon/marlon/4974
+#EXTINF:-1 tvg-id="FOX PREMIUM COMEDY SD" tvg-name="STAR COMEDY HD" tvg-logo="http://tvplaymundo.com/images/logos-tv/STAR%20COMEDY.png" group-title="CANALES PREMIUM",STAR COMEDY HD
+http://tvplaymundo.com:80/marlon/marlon/9986
+#EXTINF:-1 tvg-id="FOX PREMIUM COMEDY SD" tvg-name="STAR COMEDY SD" tvg-logo="http://tvplaymundo.com/images/logos-tv/STAR%20COMEDY.png" group-title="CANALES PREMIUM",STAR COMEDY SD
+http://tvplaymundo.com:80/marlon/marlon/4975
+#EXTINF:-1 tvg-id="FOX PREMIUM FAMILY SD" tvg-name="STAR FUN FHD" tvg-logo="http://tvplaymundo.com/images/logos-tv/STAR%20FUN.png" group-title="CANALES PREMIUM",STAR FUN FHD
+http://tvplaymundo.com:80/marlon/marlon/4976
+#EXTINF:-1 tvg-id="FOX PREMIUM FAMILY SD" tvg-name="STAR FUN HD" tvg-logo="http://tvplaymundo.com/images/logos-tv/STAR%20FUN.png" group-title="CANALES PREMIUM",STAR FUN HD
+http://tvplaymundo.com:80/marlon/marlon/9987
+#EXTINF:-1 tvg-id="FOX PREMIUM FAMILY SD" tvg-name="STAR FUN SD" tvg-logo="http://tvplaymundo.com/images/logos-tv/STAR%20FUN.png" group-title="CANALES PREMIUM",STAR FUN SD
+http://tvplaymundo.com:80/marlon/marlon/4977
+#EXTINF:-1 tvg-id="FOX PREMIUM MOVIES SD" tvg-name="STAR HITS FHD" tvg-logo="http://tvplaymundo.com/images/logos-tv/STAR%20HITS.png" group-title="CANALES PREMIUM",STAR HITS FHD
+http://tvplaymundo.com:80/marlon/marlon/4982
+#EXTINF:-1 tvg-id="FOX PREMIUM MOVIES SD" tvg-name="STAR HITS HD" tvg-logo="http://tvplaymundo.com/images/logos-tv/STAR%20HITS.png" group-title="CANALES PREMIUM",STAR HITS HD
+http://tvplaymundo.com:80/marlon/marlon/4981
+#EXTINF:-1 tvg-id="FOX PREMIUM MOVIES SD" tvg-name="STAR HITS SD" tvg-logo="http://tvplaymundo.com/images/logos-tv/STAR%20HITS.png" group-title="CANALES PREMIUM",STAR HITS SD
+http://tvplaymundo.com:80/marlon/marlon/4983
+#EXTINF:-1 tvg-id="FOX PREMIUM SERIES SD" tvg-name="STAR SERIES FHD" tvg-logo="http://tvplaymundo.com/images/logos-tv/STAR%20SERIES.png" group-title="CANALES PREMIUM",STAR SERIES FHD
+http://tvplaymundo.com:80/marlon/marlon/4979
+#EXTINF:-1 tvg-id="FOX PREMIUM SERIES SD" tvg-name="STAR SERIES SD" tvg-logo="http://tvplaymundo.com/images/logos-tv/STAR%20SERIES.png" group-title="CANALES PREMIUM",STAR SERIES SD
+http://tvplaymundo.com:80/marlon/marlon/4980
+#EXTINF:-1 tvg-id="HBO FHD" tvg-name="HBO FHD" tvg-logo="http://tvplaymundo.com:80/images/HBO.png" group-title="CANALES PREMIUM",HBO FHD
+http://tvplaymundo.com:80/marlon/marlon/10960
+#EXTINF:-1 tvg-id="HBO FHD" tvg-name="HBO HD" tvg-logo="http://tvplaymundo.com:80/images/HBO.png" group-title="CANALES PREMIUM",HBO HD
+http://tvplaymundo.com:80/marlon/marlon/4942
+#EXTINF:-1 tvg-id="HBO FHD" tvg-name="HBO SD" tvg-logo="http://tvplaymundo.com:80/images/HBO.png" group-title="CANALES PREMIUM",HBO SD
+http://tvplaymundo.com:80/marlon/marlon/10315
+#EXTINF:-1 tvg-id="HBO 2 SD" tvg-name="HBO 2 FHD" tvg-logo="http://tvplaymundo.com/images/logos-tv/HBO2.png" group-title="CANALES PREMIUM",HBO 2 FHD
+http://tvplaymundo.com:80/marlon/marlon/4940
+#EXTINF:-1 tvg-id="HBO 2 SD" tvg-name="HBO 2 HD" tvg-logo="http://tvplaymundo.com:80/images/HBO2.png" group-title="CANALES PREMIUM",HBO 2 HD
+http://tvplaymundo.com:80/marlon/marlon/10023
+#EXTINF:-1 tvg-id="HBO 2 SD" tvg-name="HBO 2 SD" tvg-logo="http://tvplaymundo.com:80/images/HBO2.png" group-title="CANALES PREMIUM",HBO 2 SD
+http://tvplaymundo.com:80/marlon/marlon/4941
+#EXTINF:-1 tvg-id="HBO PLUS SD" tvg-name="HBO + FHD" tvg-logo="http://tvplaymundo.com:80/images/HBO+.png" group-title="CANALES PREMIUM",HBO + FHD
+http://tvplaymundo.com:80/marlon/marlon/4935
+#EXTINF:-1 tvg-id="HBO PLUS SD" tvg-name="HBO + HD" tvg-logo="http://tvplaymundo.com:80/images/HBO+.png" group-title="CANALES PREMIUM",HBO + HD
+http://tvplaymundo.com:80/marlon/marlon/12715
+#EXTINF:-1 tvg-id="HBO PLUS SD" tvg-name="HBO + SD" tvg-logo="http://tvplaymundo.com:80/images/HBO+.png" group-title="CANALES PREMIUM",HBO + SD
+http://tvplaymundo.com:80/marlon/marlon/4936
+#EXTINF:-1 tvg-id="HBO FAMILY SD" tvg-name="HBO FAMILY FHD" tvg-logo="http://tvplaymundo.com/images/logos-tv/HBO%20FAMILY.png" group-title="CANALES PREMIUM",HBO FAMILY FHD
+http://tvplaymundo.com:80/marlon/marlon/4937
+#EXTINF:-1 tvg-id="HBO FAMILY SD" tvg-name="HBO FAMILY HD" tvg-logo="http://tvplaymundo.com/images/logos-tv/HBO%20FAMILY.png" group-title="CANALES PREMIUM",HBO FAMILY HD
+http://tvplaymundo.com:80/marlon/marlon/4938
+#EXTINF:-1 tvg-id="HBO FAMILY SD" tvg-name="HBO FAMILY SD" tvg-logo="http://tvplaymundo.com/images/logos-tv/HBO%20FAMILY.png" group-title="CANALES PREMIUM",HBO FAMILY SD
+http://tvplaymundo.com:80/marlon/marlon/4939
+#EXTINF:-1 tvg-id="HBO SIGNATURE SD" tvg-name="HBO SIGNATURE FHD" tvg-logo="http://tvplaymundo.com/images/logos-tv/HBO%20SIGNATURE.png" group-title="CANALES PREMIUM",HBO SIGNATURE FHD
+http://tvplaymundo.com:80/marlon/marlon/4932
+#EXTINF:-1 tvg-id="HBO SIGNATURE SD" tvg-name="HBO SIGNATURE HD" tvg-logo="http://tvplaymundo.com/images/logos-tv/HBO%20SIGNATURE.png" group-title="CANALES PREMIUM",HBO SIGNATURE HD
+http://tvplaymundo.com:80/marlon/marlon/4933
+#EXTINF:-1 tvg-id="HBO SIGNATURE SD" tvg-name="HBO SIGNATURE SD" tvg-logo="http://tvplaymundo.com/images/logos-tv/HBO%20SIGNATURE.png" group-title="CANALES PREMIUM",HBO SIGNATURE SD
+http://tvplaymundo.com:80/marlon/marlon/4934
+#EXTINF:-1 tvg-id="MAX PRIME SD" tvg-name="HBO XTREME FHD" tvg-logo="http://tvplaymundo.com/images/logos-tv/HBO-XTREME.png" group-title="CANALES PREMIUM",HBO XTREME FHD
+http://tvplaymundo.com:80/marlon/marlon/4908
+#EXTINF:-1 tvg-id="MAX PRIME SD" tvg-name="HBO XTREME SD" tvg-logo="http://tvplaymundo.com:80/images/HBO-XTREME.png" group-title="CANALES PREMIUM",HBO XTREME SD
+http://tvplaymundo.com:80/marlon/marlon/4909
+#EXTINF:-1 tvg-id="MAX SD" tvg-name="HBO MUNDI SD" tvg-logo="http://tvplaymundo.com:80/images/HBO-MUNDI.png" group-title="CANALES PREMIUM",HBO MUNDI SD
+http://tvplaymundo.com:80/marlon/marlon/4911
+#EXTINF:-1 tvg-id="MAX UP FHD" tvg-name="HBO POP FHD" tvg-logo="http://tvplaymundo.com/images/logos-tv/HBO-POP.png" group-title="CANALES PREMIUM",HBO POP FHD
+http://tvplaymundo.com:80/marlon/marlon/4910
+#EXTINF:-1 tvg-id="MAX UP FHD" tvg-name="HBO POP SD" tvg-logo="http://tvplaymundo.com:80/images/HBO-POP.png" group-title="CANALES PREMIUM",HBO POP SD
+http://tvplaymundo.com:80/marlon/marlon/14661
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR CANAL UNO FHD" tvg-logo="http://tvplaymundo.com/images/logos-tv/CANAL%20UNO%20ECUADOR.png" group-title="CANALES ECUADOR",ECUADOR CANAL UNO FHD
+http://tvplaymundo.com:80/marlon/marlon/21693
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR CANAL UNO HD" tvg-logo="http://tvplaymundo.com/images/logos-tv/CANAL%20UNO%20ECUADOR.png" group-title="CANALES ECUADOR",ECUADOR CANAL UNO HD
+http://tvplaymundo.com:80/marlon/marlon/21692
+#EXTINF:-1 tvg-id="ECUADOR CANAL UNO SD" tvg-name="ECUADOR CANAL UNO SD" tvg-logo="http://tvplaymundo.com/images/logos-tv/CANAL%20UNO%20ECUADOR.png" group-title="CANALES ECUADOR",ECUADOR CANAL UNO SD
+http://tvplaymundo.com:80/marlon/marlon/9722
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR ECUADOR TV FHD" tvg-logo="http://tvplaymundo.com/images/logos-tv/ECUADOR%20TV.png" group-title="CANALES ECUADOR",ECUADOR ECUADOR TV FHD
+http://tvplaymundo.com:80/marlon/marlon/21694
+#EXTINF:-1 tvg-id="ECUADOR ECUADOR TV SD" tvg-name="ECUADOR ECUADOR TV SD" tvg-logo="http://tvplaymundo.com/images/logos-tv/ECUADOR%20TV.png" group-title="CANALES ECUADOR",ECUADOR ECUADOR TV SD
+http://tvplaymundo.com:80/marlon/marlon/9727
+#EXTINF:-1 tvg-id="ECUADOR ECUAVISA SD" tvg-name="ECUADOR ECUAVISA HD" tvg-logo="http://tvplaymundo.com/images/logos-tv/ECUAVISA%20ECUADOR.png" group-title="CANALES ECUADOR",ECUADOR ECUAVISA HD
+http://tvplaymundo.com:80/marlon/marlon/9719
+#EXTINF:-1 tvg-id="ECUADOR ECUAVISA SD" tvg-name="ECUADOR ECUAVISA SD" tvg-logo="http://tvplaymundo.com/images/logos-tv/ECUAVISA%20ECUADOR.png" group-title="CANALES ECUADOR",ECUADOR ECUAVISA SD
+http://tvplaymundo.com:80/marlon/marlon/9718
+#EXTINF:-1 tvg-id="ECUADOR GAMAVISION SD" tvg-name="ECUADOR GAMAVISION SD" tvg-logo="http://tvplaymundo.com/images/logos-tv/GAMAVISION%20ECUADOR.png" group-title="CANALES ECUADOR",ECUADOR GAMAVISION SD
+http://tvplaymundo.com:80/marlon/marlon/12925
+#EXTINF:-1 tvg-id="ECUADOR OROMAR TELEVISION SD" tvg-name="ECUADOR OROMAR TELEVISION SD" tvg-logo="http://tvplaymundo.com/images/logos-tv/OROMAR%20ECUADOR.png" group-title="CANALES ECUADOR",ECUADOR OROMAR TELEVISION SD
+http://tvplaymundo.com:80/marlon/marlon/12927
+#EXTINF:-1 tvg-id="ECUADOR RTS SD" tvg-name="ECUADOR RTS FHD" tvg-logo="http://tvplaymundo.com/images/logos-tv/RTS%20ECUADOR.png" group-title="CANALES ECUADOR",ECUADOR RTS FHD
+http://tvplaymundo.com:80/marlon/marlon/9723
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR RTS SD" tvg-logo="http://tvplaymundo.com/images/logos-tv/RTS%20ECUADOR.png" group-title="CANALES ECUADOR",ECUADOR RTS SD
+http://tvplaymundo.com:80/marlon/marlon/21697
+#EXTINF:-1 tvg-id="ECUADOR TC TELEVISION SD" tvg-name="ECUADOR TC TELEVISION HD" tvg-logo="http://tvplaymundo.com/images/logos-tv/TC%20TELEVISION%20ECUADOR.png" group-title="CANALES ECUADOR",ECUADOR TC TELEVISION HD
+http://tvplaymundo.com:80/marlon/marlon/9726
+#EXTINF:-1 tvg-id="ECUADOR TC TELEVISION SD" tvg-name="ECUADOR TC TELEVISION SD" tvg-logo="http://tvplaymundo.com/images/logos-tv/TC%20TELEVISION%20ECUADOR.png" group-title="CANALES ECUADOR",ECUADOR TC TELEVISION SD
+http://tvplaymundo.com:80/marlon/marlon/9725
+#EXTINF:-1 tvg-id="ECUADOR TELEAMAZONAS SD" tvg-name="ECUADOR TELEAMAZONAS HD" tvg-logo="http://tvplaymundo.com/images/logos-tv/TELEAMAZONAS%20ECUADOR.png" group-title="CANALES ECUADOR",ECUADOR TELEAMAZONAS HD
+http://tvplaymundo.com:80/marlon/marlon/9721
+#EXTINF:-1 tvg-id="ECUADOR TELEAMAZONAS SD" tvg-name="ECUADOR TELEAMAZONAS SD" tvg-logo="http://tvplaymundo.com/images/logos-tv/TELEAMAZONAS%20ECUADOR.png" group-title="CANALES ECUADOR",ECUADOR TELEAMAZONAS SD
+http://tvplaymundo.com:80/marlon/marlon/9720
+#EXTINF:-1 tvg-id="ECUADOR TELEVICENTRO SD" tvg-name="ECUADOR TELEVICENTRO FHD" tvg-logo="http://tvplaymundo.com/images/logos-tv/TELEVICENTRO%20ECUADOR.png" group-title="CANALES ECUADOR",ECUADOR TELEVICENTRO FHD
+http://tvplaymundo.com:80/marlon/marlon/12923
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR TELEVICENTRO SD" tvg-logo="http://tvplaymundo.com/images/logos-tv/TELEVICENTRO%20ECUADOR.png" group-title="CANALES ECUADOR",ECUADOR TELEVICENTRO SD
+http://tvplaymundo.com:80/marlon/marlon/21696
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR ECDF SD" tvg-logo="http://tvplaymundo.com/images/logos-tv/ECDF%20ECUADOR.png" group-title="CANALES ECUADOR",ECUADOR ECDF SD
 
 
-#EXTINF:-1 tvg-id="" tvg-name="USA | Showtime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/1200px-Showtime.svg.png" group-title="STARZ",USA | Showtime
-http://lozanostv.net:8000/iptv/iptv/8928
 
-#EXTINF:-1 tvg-id="" tvg-name="USA | Showtime 2" tvg-logo="https://www.directhd.tv/wp-content/uploads/2018/09/showtime-2.jpg" group-title="STARZ",USA | Showtime 2
-http://lozanostv.net:8000/iptv/iptv/8929
 
-#EXTINF:-1 tvg-id="" tvg-name="USA | Showtime Extreme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/XTRM_Espa%C3%B1a.png/245px-XTRM_Espa%C3%B1a.png" group-title="STARZ",USA | Showtime Extreme
-http://lozanostv.net:8000/iptv/iptv/8931
-
-#EXTINF:-1 tvg-id="" tvg-name="USA | Showtime Showcase" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Showtime_Showcase.svg/125px-Showtime_Showcase.svg.png" group-title="STARZ",USA | Showtime Showcase
-http://lozanostv.net:8000/iptv/iptv/8930
-
-#EXTINF:-1 tvg-id="" tvg-name="USA | Starz Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Starz_Cinema_logo.svg/1200px-Starz_Cinema_logo.svg.png" group-title="STARZ",USA | Starz Cinema
-http://lozanostv.net:8000/iptv/iptv/35654
-
-#EXTINF:-1 tvg-id="" tvg-name="USA | Starz Comedy HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Starz_Comedy_logo.svg/1200px-Starz_Comedy_logo.svg.png" group-title="STARZ",USA | Starz Comedy HD
-http://lozanostv.net:8000/iptv/iptv/35655
-
-#EXTINF:-1 tvg-id="" tvg-name="USA | Starz Edge" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Starz_Edge_2016.svg/125px-Starz_Edge_2016.svg.png" group-title="STARZ",USA | Starz Edge
-http://lozanostv.net:8000/iptv/iptv/35657
-
-#EXTINF:-1 tvg-id="" tvg-name="USA | Starz Encore Black " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Starz_In_Black_logo.svg/1200px-Starz_In_Black_logo.svg.png" group-title="STARZ",USA | Starz Encore Black 
-http://lozanostv.net:8000/iptv/iptv/35653
-
-#EXTINF:-1 tvg-id="" tvg-name="USA | Starz Encore" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Starz_Encore.svg/240px-Starz_Encore.svg.png" group-title="STARZ",USA | Starz Encore
-http://lozanostv.net:8000/iptv/iptv/35660
-
-#EXTINF:-1 tvg-id="" tvg-name="USA | Starz Encore Suspense" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/starz.png" group-title="STARZ",USA | Starz Encore Suspense
-http://lozanostv.net:8000/iptv/iptv/35661
-
-#EXTINF:-1 tvg-id="" tvg-name="USA | Starz Encore Western" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Starz_Encore.svg/240px-Starz_Encore.svg.png" group-title="STARZ",USA | Starz Encore Western
-http://lozanostv.net:8000/iptv/iptv/35662
 
 
