@@ -1,4 +1,43 @@
 #EXTM3U
 
-#EXTINF:-50 tvg-logo="https://i.postimg.cc/prwZsYms/magic.png" group-title="NIÑOS Y ADOLESCENTES", MAGIC KIDS FANS
+#EXTINF:-50 tvg-logo="https://i.postimg.cc/prwZsYms/magic.png" group-title="INFANTIL", MAGIC KIDS FANS
 https://live.admefy.com/live/clean_peach_ef224.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="USA KIDS | Starz Kids & Family" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/starz_family.png" group-title="STARZ",USA KIDS | Starz Kids & Family
+http://lozanostv.net:8000/iptv/iptv/35664
+
+
+#EXTINF:-1 tvg-id="" tvg-name="USA | Showtime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/1200px-Showtime.svg.png" group-title="STARZ",USA | Showtime
+http://lozanostv.net:8000/iptv/iptv/8928
+
+#EXTINF:-1 tvg-id="" tvg-name="USA | Showtime 2" tvg-logo="https://www.directhd.tv/wp-content/uploads/2018/09/showtime-2.jpg" group-title="STARZ",USA | Showtime 2
+http://lozanostv.net:8000/iptv/iptv/8929
+
+#EXTINF:-1 tvg-id="" tvg-name="USA | Showtime Extreme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/XTRM_Espa%C3%B1a.png/245px-XTRM_Espa%C3%B1a.png" group-title="STARZ",USA | Showtime Extreme
+http://lozanostv.net:8000/iptv/iptv/8931
+
+#EXTINF:-1 tvg-id="" tvg-name="USA | Showtime Showcase" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Showtime_Showcase.svg/125px-Showtime_Showcase.svg.png" group-title="STARZ",USA | Showtime Showcase
+http://lozanostv.net:8000/iptv/iptv/8930
+
+#EXTINF:-1 tvg-id="" tvg-name="USA | Starz Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Starz_Cinema_logo.svg/1200px-Starz_Cinema_logo.svg.png" group-title="STARZ",USA | Starz Cinema
+http://lozanostv.net:8000/iptv/iptv/35654
+
+#EXTINF:-1 tvg-id="" tvg-name="USA | Starz Comedy HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Starz_Comedy_logo.svg/1200px-Starz_Comedy_logo.svg.png" group-title="STARZ",USA | Starz Comedy HD
+http://lozanostv.net:8000/iptv/iptv/35655
+
+#EXTINF:-1 tvg-id="" tvg-name="USA | Starz Edge" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Starz_Edge_2016.svg/125px-Starz_Edge_2016.svg.png" group-title="STARZ",USA | Starz Edge
+http://lozanostv.net:8000/iptv/iptv/35657
+
+#EXTINF:-1 tvg-id="" tvg-name="USA | Starz Encore Black " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Starz_In_Black_logo.svg/1200px-Starz_In_Black_logo.svg.png" group-title="STARZ",USA | Starz Encore Black 
+http://lozanostv.net:8000/iptv/iptv/35653
+
+#EXTINF:-1 tvg-id="" tvg-name="USA | Starz Encore" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Starz_Encore.svg/240px-Starz_Encore.svg.png" group-title="STARZ",USA | Starz Encore
+http://lozanostv.net:8000/iptv/iptv/35660
+
+#EXTINF:-1 tvg-id="" tvg-name="USA | Starz Encore Suspense" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/starz.png" group-title="STARZ",USA | Starz Encore Suspense
+http://lozanostv.net:8000/iptv/iptv/35661
+
+#EXTINF:-1 tvg-id="" tvg-name="USA | Starz Encore Western" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Starz_Encore.svg/240px-Starz_Encore.svg.png" group-title="STARZ",USA | Starz Encore Western
+http://lozanostv.net:8000/iptv/iptv/35662
+
+
